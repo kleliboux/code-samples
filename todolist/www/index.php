@@ -3,7 +3,7 @@
 // Exemple d'architecture MVC très simple en PHP
 //
 // Les explications sont disponibles sur SlideShare :
-//
+// http://fr.slideshare.net/KristenLeLiboux/application-mvc
 //
 // Pour faire fonctionner ce projet chez vous, vous devez le placer sur
 // sur un serveur Apache+PHP et éditer éventuellement la ligne "RewriteBase"
