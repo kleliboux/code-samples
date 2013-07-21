@@ -34,5 +34,5 @@ notions-javascript
 Quelques exemples de base pour illustrer le cours de JavaScript disponible sur SlideShare :
 http://fr.slideshare.net/KristenLeLiboux/notions-javascript
 
-Pour tester l'un des exemples, il faut éditer la balise <script> figurant à la fin du 
+Pour tester l'un des exemples, il faut éditer la balise &lt;script&gt; figurant à la fin du 
 document html, en indiquant le nom du script que vous souhaitez.
